@@ -1,0 +1,32 @@
+{
+  "name": "@kidsstar/unirx",
+  "version": "5.5.0",
+  "description": "Reactive Extension for Unity",
+  "homepage": "https://github.com/kidsstar/unirx",
+  "bugs": {
+    "url": "https://github.com/kidsstar/unirx/issues"
+  },
+  "scripts": {
+    "postinstall": "node scripts/postinstall.js",
+    "build:test": "tar -tf $(npm pack -s) && $(npm bin)/rimraf $_"
+  },
+  "author": {
+    "name": "neuecc",
+    "email": "",
+    "url": "http://neue.cc/"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kidsstar/unirx"
+  },
+  "files": [
+    "Assets"
+  ],
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "ncp": "^2.0.0",
+    "rimraf": "^2.6.1"
+  },
+  "devDependencies": {}
+}
