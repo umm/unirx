@@ -21,7 +21,8 @@
     "url": "git@github.com:kidsstar/unirx"
   },
   "files": [
-    "Assets"
+    "Assets",
+    "scripts"
   ],
   "dependencies": {
     "mkdirp": "^0.5.1",
