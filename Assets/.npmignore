@@ -1,4 +1,6 @@
 Modules/
 Modules.meta
-UniRx/Examples/
-UniRx/Examples.meta
+Tests/
+Tests.meta
+Examples/
+Examples.meta
