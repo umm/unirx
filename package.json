@@ -1,10 +1,10 @@
 {
-  "name": "@kidsstar/uni-rx",
-  "version": "5.5.3",
+  "name": "@umm/unirx",
+  "version": "5.5.0",
   "description": "Reactive Extension for Unity",
-  "homepage": "https://github.com/kidsstar/uni-rx",
+  "homepage": "https://github.com/umm-projects/unirx",
   "bugs": {
-    "url": "https://github.com/kidsstar/uni-rx/issues"
+    "url": "https://github.com/umm-projects/unirx/issues"
   },
   "scripts": {
     "postinstall": "node scripts/postinstall.js",
@@ -18,7 +18,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:kidsstar/uni-rx"
+    "url": "git@github.com:umm-projects/unirx"
   },
   "files": [
     "Assets",
