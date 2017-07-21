@@ -1,13 +1,14 @@
 {
-  "name": "@kidsstar/uni-rx",
-  "version": "5.5.3",
+  "name": "@umm/unirx",
+  "version": "5.5.0",
   "description": "Reactive Extension for Unity",
-  "homepage": "https://github.com/kidsstar/uni-rx",
+  "homepage": "https://github.com/umm-projects/unirx",
   "bugs": {
-    "url": "https://github.com/kidsstar/uni-rx/issues"
+    "url": "https://github.com/umm-projects/unirx/issues"
   },
   "scripts": {
     "postinstall": "node scripts/postinstall.js",
+    "postuninstall": "node scripts/postuninstall.js",
     "build:test": "tar -tf $(npm pack -s) && $(npm bin)/rimraf $_"
   },
   "author": {
@@ -18,7 +19,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:kidsstar/uni-rx"
+    "url": "git@github.com:umm-projects/unirx"
   },
   "files": [
     "Assets",
@@ -26,9 +27,8 @@
   ],
   "dependencies": {
     "mkdirp": "^0.5.1",
-    "ncp": "^2.0.0",
-    "pascal-case": "^2.0.1",
-    "rimraf": "^2.6.1"
+    "rimraf": "^2.6.1",
+    "rsync": "^0.6.1"
   },
   "devDependencies": {}
 }
