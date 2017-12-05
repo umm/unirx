@@ -53,7 +53,7 @@ namespace UniRx
         static ScenePlaybackDetector()
         {
 #if UNITY_2017_2_OR_NEWER
-            EditorApplication.pauseStateChanged += (pauseState) =>
+            EditorApplication.playModeStateChanged += e =>
 #else
             EditorApplication.playmodeStateChanged += () =>
 #endif
