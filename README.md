@@ -1,8 +1,10 @@
-# Usage
+# UniRx (umm)
 
-* 仔細は[本家のリポジトリ](https://github.com/neuecc/UniRx)をご覧ください。
+* See [neuecc/UniRx](https://github.com/neuecc/UniRx).
 
-# Note
+## Install
 
-* 利用している UniRx バージョンは 5.5.0 になります。
+```shell
+yarn add "umm-projects/unirx#^1.0.0"
+```
 
