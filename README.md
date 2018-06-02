@@ -5,6 +5,6 @@
 ## Install
 
 ```shell
-yarn add "umm-projects/unirx#^1.0.0"
+yarn add "umm-projects/unirx#^2.0.0"
 ```
 
