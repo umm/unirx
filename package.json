@@ -2,9 +2,9 @@
   "name": "@umm/unirx",
   "version": "2.1.0",
   "description": "Reactive Extension for Unity",
-  "homepage": "https://github.com/umm-projects/unirx",
+  "homepage": "https://github.com/umm/unirx",
   "bugs": {
-    "url": "https://github.com/umm-projects/unirx/issues"
+    "url": "https://github.com/umm/unirx/issues"
   },
   "scripts": {
     "umm:init": "umm-init",
@@ -22,14 +22,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:umm-projects/unirx"
+    "url": "git@github.com:umm/unirx"
   },
   "files": [
     "Assets",
     "scripts"
   ],
   "dependencies": {
-    "@umm/scripts": "umm-projects/scripts#^1.0.0"
+    "@umm/scripts": "umm/scripts#^1.0.0"
   },
   "devDependencies": {}
 }
