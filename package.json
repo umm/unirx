@@ -1,6 +1,6 @@
 {
   "name": "@umm/unirx",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "Reactive Extension for Unity",
   "homepage": "https://github.com/umm/unirx",
   "bugs": {
