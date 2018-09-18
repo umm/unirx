@@ -1,0 +1,10 @@
+{
+    "name": "umm@unirx",
+    "references": [
+        "umm@unirx-Async"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

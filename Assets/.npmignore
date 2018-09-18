@@ -3,6 +3,10 @@ Modules/
 Modules.meta
 Plugins/
 Plugins.meta
+!Plugins/UniRx/
+!Plugins/UniRx.meta
+Plugins/UniRx/Examples/
+Plugins/UniRx/Examples.meta
 Tests/
 Tests.meta
 Examples/

@@ -1,0 +1,13 @@
+{
+    "name": "umm@unirx-Examples",
+    "references": [
+        "umm@unirx",
+        "umm@unirx-Async"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
