@@ -1,0 +1,12 @@
+{
+    "name": "umm@unirx-Async-Editor",
+    "references": [
+        "umm@unirx-Async"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
